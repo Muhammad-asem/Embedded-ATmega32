@@ -1,0 +1,6 @@
+HAL/BTN/BTN.d HAL/BTN/BTN.o: ../HAL/BTN/BTN.c ../HAL/BTN/BTN.h \
+ ../MCAL/DIO/DIO.h
+
+../HAL/BTN/BTN.h:
+
+../MCAL/DIO/DIO.h:
